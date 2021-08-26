@@ -1,0 +1,13 @@
+#box{
+    background-color: white;
+    margin: 15px;
+    padding: 20px;
+}
+
+body{
+    background-color: lightgray;
+}
+
+h1{
+    text-align:center
+}

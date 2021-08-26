@@ -4,10 +4,20 @@
     padding: 20px;
 }
 
+#box2{
+    background-color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 5px;
+}
+
 body{
     background-color: lightgray;
 }
 
 h1{
+    text-align:center
+}
+h2{
     text-align:center
 }
